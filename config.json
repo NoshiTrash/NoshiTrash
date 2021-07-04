@@ -5,5 +5,5 @@
 	"ip":"joolmao.aternos.me",
 	"port": "25565",
 	"name": "KeepServerBoy",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
