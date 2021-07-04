@@ -2,8 +2,8 @@
 
 
 {
-	"ip":"vanevo.aternos.me",
+	"ip":"joolmao.aternos.me",
 	"port": "25565",
-	"name": "boboserver",
-	"auto-night-skip":"false"
+	"name": "KeepServerBoy",
+	"auto-night-skip":"true"
 }
